@@ -18,7 +18,7 @@ import java.util.*;
 public class SerpAPIClient {
     private static final String URL_TEMPLATE = "https://serpapi.com/search?engine=google_jobs&q=%s&uule=%s&api_key=%s";  //%s : String 占位符
 
-    private static final String API_KEY = "c603ef7fbe028c085372cdc9d42651247c30213896d846d564d898b17b0b3352";
+    private static final String API_KEY = "********************";
 
     public static void main(String[] args) {
         SerpAPIClient client = new SerpAPIClient();
