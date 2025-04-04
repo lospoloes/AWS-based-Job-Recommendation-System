@@ -18,7 +18,7 @@ import java.util.*;
 import java.io.IOException;
 
 public class EdenAI {
-    private static final String EDENAI_TOEKN = "Bearer " + "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZmQyNDEzODEtMzIxMi00NjQ3LTg3MmMtZTE4Mzc1MThlMzg4IiwidHlwZSI6ImFwaV90b2tlbiJ9.1Y7pLPsJaUNe_qAx-ZKPyw8LxrZURq_ewHZV8ACzTg8";
+    private static final String EDENAI_TOEKN = "Bearer " + "*************";
 
     private static final String EXTRACT_URL = "https://api.edenai.run/v2/text/keyword_extraction";
 
