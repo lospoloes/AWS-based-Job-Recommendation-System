@@ -13,7 +13,7 @@ import java.io.IOException;
 public class GeoConverterClient {
     private static final String URL_TEMPLATE = "https://maps.googleapis.com/maps/api/geocode/json?latlng=%s&key=%s";
 
-    private static final String API_KEY = "AIzaSyDRaKA047uyBjet-tNeVOsUJjkYKWG0JEQ";
+    private static final String API_KEY = "****************";
 
     public static void main(String[] args) {
         GeoConverterClient client = new GeoConverterClient();
